@@ -3,7 +3,7 @@ The Utilization of ScalarDB on Bank Transaction System: A database assignment.
 <br> Team: BabyBus
 <br> Members: Junjie GAO, Shengze WANG, Danyuan YU, Xiang MENG, Jingyu LIU
 ## Introduction to the repository
-The repository includes two files, which are a Zip file and a pptx file. The pptx file includes the slide that we used for the final presentation and the zip file includes all the codes. 
+The repository includes two files, which are a PDF file and a pptx file. The pptx file includes the slide that we used for the final presentation and the PDF file includes a link to download the Zip file. 
 ## Requirements
 - Docker
 - Gradle (7.4.2)
@@ -23,10 +23,11 @@ The repository includes two files, which are a Zip file and a pptx file. The ppt
 
 ## This should be the proper procedure of running the app, but it is still possible that the code failed to run. 
 To cope with potential accidents, we packed our code to .exe file which should be easier to run. 
-1. Download the Zip file from our github.
-2. Unfreeze the Zip file.
-3. Find the /dist folder.
-4. server2.exe is located in the above folder.
+1. Open the PDF file to access the Google Drive to download our Zip file.
+2. Download the Zip file from our github.
+3. Unfreeze the Zip file.
+4. Find the /dist folder.
+5. server2.exe is located in the above folder.
 
 ## Appendix
 We have two reasons to wrap into .exe file. First, it is easy for you to check our system. Second, we used cloud server but we can not make our password public.
