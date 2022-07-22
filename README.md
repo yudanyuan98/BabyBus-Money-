@@ -23,7 +23,7 @@ The repository includes two files, which are a PDF file and a pptx file. The ppt
 
 ## How to run  
 To cope with potential accidents, we packed our code to .exe file which should be easier to run. This should be the proper procedure of running the app, but it is still possible that the code failed to run. 
-1. Open the PDF file to access the Google Drive to download our Zip file.
+1. Open the PDF file to access the Google Drive to download our Zip file. **https://drive.google.com/file/d/1yx4OpqZYkuZXSm2IJGGbbgFKTeilRYBb/view?usp=sharing**
 2. Download the Zip file from our github.
 3. Unfreeze the Zip file.
 4. Find the /dist folder.
