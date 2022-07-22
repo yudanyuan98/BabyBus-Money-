@@ -35,5 +35,5 @@ We have two reasons to wrap into .exe file. First, it is easy for you to check o
 <br> Test Account ID: bank_Gao
 <br> Password: 123456
 <br> **Please Run the server2.exe on Windows Platform**
-<br> **WE ARE SO SORRY THAT U NEED TO DOWNLOAD OUR CODE FROM GOOGLE DRIVE, BECAUSE WE FAILED TO PUSH OUR PROJECT INTO GITHUB**
+<br> **WE ARE SO SORRY THAT YOU NEED TO DOWNLOAD OUR CODE FROM GOOGLE DRIVE, BECAUSE WE FAILED TO PUSH OUR PROJECT INTO GITHUB**
 <br> **If you have any questions, please contact shengzewang2021@keio.jp**
