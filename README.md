@@ -33,3 +33,4 @@ To cope with potential accidents, we packed our code to .exe file which should b
 We have two reasons to wrap into .exe file. First, it is easy for you to check our system. Second, we used cloud server but we can not make our password public.
 <br> Test ID: bank_Gao
 <br> Password: 123456
+<br> **Please Run the server2.exe on Windows Platform**
