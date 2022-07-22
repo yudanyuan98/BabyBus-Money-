@@ -21,16 +21,18 @@ The repository includes two files, which are a PDF file and a pptx file. The ppt
 4. Start the server in the same tab as 2.
 `money-transaction-system % gradle run`
 
-## This should be the proper procedure of running the app, but it is still possible that the code failed to run. 
-To cope with potential accidents, we packed our code to .exe file which should be easier to run. 
+## How to run  
+To cope with potential accidents, we packed our code to .exe file which should be easier to run. This should be the proper procedure of running the app, but it is still possible that the code failed to run. 
 1. Open the PDF file to access the Google Drive to download our Zip file.
 2. Download the Zip file from our github.
 3. Unfreeze the Zip file.
 4. Find the /dist folder.
 5. server2.exe is located in the above folder.
+6. Wait for a moment, copy the website **http://localhost:5000/index**
 
 ## Appendix
 We have two reasons to wrap into .exe file. First, it is easy for you to check our system. Second, we used cloud server but we can not make our password public.
 <br> Test Account ID: bank_Gao
 <br> Password: 123456
 <br> **Please Run the server2.exe on Windows Platform**
+<br> **WE ARE SO SORRY THAT U NEED TO DOWNLOAD OUR CODE FROM GOOGLE DRIVE, BECAUSE WE FAILED TO PUSH OUR PROJECT INTO GITHUB**
